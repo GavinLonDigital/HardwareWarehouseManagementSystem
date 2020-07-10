@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HardwareWarehouseManagementSystem", "HardwareWarehouseManagementSystem\HardwareWarehouseManagementSystem.csproj", "{CAFFB363-8795-48A0-9605-77583443728C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WarehouseManagementSystemAPI", "WarehouseManagementSystemAPI\WarehouseManagementSystemAPI.csproj", "{524B99CA-D6D7-4D30-AF49-3BD00CF28F59}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAFFB363-8795-48A0-9605-77583443728C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAFFB363-8795-48A0-9605-77583443728C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAFFB363-8795-48A0-9605-77583443728C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAFFB363-8795-48A0-9605-77583443728C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{524B99CA-D6D7-4D30-AF49-3BD00CF28F59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{524B99CA-D6D7-4D30-AF49-3BD00CF28F59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{524B99CA-D6D7-4D30-AF49-3BD00CF28F59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{524B99CA-D6D7-4D30-AF49-3BD00CF28F59}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54DEAF3F-1961-43B6-9BB3-AB0EB0EE3964}
+	EndGlobalSection
+EndGlobal
